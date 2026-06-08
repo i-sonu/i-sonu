@@ -3,7 +3,7 @@ Hi, I'm Adarsh <br>I'm a Computer Science & Robotics student who enjoys building
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adarshh3000) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adarshh3000) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adarshh3000@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adarshh3000) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adarshh3000@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adarshh3000) 
 
 ## Portfolio:
 https://adarshh3000.netlify.app/
